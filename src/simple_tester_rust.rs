@@ -24,7 +24,7 @@ fn main()
         [ 17, 39, 30, 52, 44, 25, 41, 51, 12 ],  // 7   Q-full-of-K VS Q-full-of-4
         [ 11, 25, 9,  39, 50, 48, 3,  49, 45 ],  // 8   9-K straight VS 9-J-two-pair
         [ 50, 26, 39, 3,  11, 27, 20, 48, 52 ],  // 9   J-K-two-pair VS K-pair
-        [ 40, 52, 46, 11, 48, 27, 29, 32, 37 ]  // 10  A-pair VS J-pair
+        [ 40, 52, 46, 11, 48, 27, 29, 32, 37 ]   // 10  A-pair VS J-pair
     ];
 
     let sols:[Vec<&str>; 10] = [
